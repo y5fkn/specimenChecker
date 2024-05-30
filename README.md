@@ -16,4 +16,5 @@ Utilising and implementing the use of:
 
 ### Code Piece
 `pAequor` is the new aquatic species discovered near the sea bed.
-`let pAequor = pAequorFactory(1, mockUpStrand());` 
+\n`let pAequor = pAequorFactory(1, mockUpStrand());` 
+
