@@ -9,5 +9,4 @@ Utilising and implementing the use of:
 + loops (**for** & **while**)
 + methods
 
-> Blockquote
-> The only way to improve a skill is to practice more, fail more, fail better. 
+> Blockquote The only way to improve a skill is to practice more, fail more, fail better. 
