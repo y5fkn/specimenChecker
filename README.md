@@ -13,3 +13,5 @@ Utilising and implementing the use of:
 > The only way to improve a skill is to practice more;
 > fail more;
 > fail better. 
+
+`let pAequor = pAequorFactory(1, mockUpStrand());` 
